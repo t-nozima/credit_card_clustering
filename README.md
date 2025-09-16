@@ -36,8 +36,3 @@ The goal of this analysis is to perform **unsupervised learning (clustering)** t
 ## Tech Stack
 - **Python**  
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`  
-
-## 🚀 How to Run
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/credit-card-clustering.git
